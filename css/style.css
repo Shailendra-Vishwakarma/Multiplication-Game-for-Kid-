@@ -6,15 +6,8 @@ body{
     height: 100vh;
     align-items: center;
     text-align: center;
-    background-color: yellow;
+    background-image: url(https://images.unsplash.com/photo-1533518463841-d62e1fc91373?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
     font-family: cursive;
-}
-.heading{
-   margin-top: 0;
-   height: 100vh;
-   align-items: center;
-   justify-content: center;
-   align-items: center;
 }
 .form{
     background-color: white;
